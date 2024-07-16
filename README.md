@@ -18,7 +18,7 @@ A simple Windows Forms application to convert currencies using live exchange rat
   git clone https://github.com/evrylsem/Sembrino_CurrencyConverter.git
 </pre>
 #### **2. Open the project in Visual Studio:**
-- Double-click on CurrencyConverter.sln to open the solution in Visual Studio. 
+- Double-click on Currency.sln to open the solution in Visual Studio. 
 #### **3. Restore NuGet packages:**
 - Go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution.
 - Click on Restore to install the required packages.
