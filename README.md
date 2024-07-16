@@ -16,7 +16,6 @@ A simple Windows Forms application to convert currencies using live exchange rat
 #### **1. Clone the repository:**
 <pre>
   git clone https://github.com/evrylsem/Sembrino_CurrencyConverter.git
-  cd Sembrino_CurrencyConverter
 </pre>
 #### **2. Open the project in Visual Studio:**
 - Double-click on CurrencyConverter.sln to open the solution in Visual Studio. 
